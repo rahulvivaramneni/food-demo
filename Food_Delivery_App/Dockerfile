@@ -3,4 +3,4 @@
   FROM mcr.microsoft.com/dotnet/aspnet:5.0
   COPY bin/Release/netcoreapp3.1/publish/ App/
   WORKDIR /App
-  ENTRYPOINT ["dotnet", "Food_Delivery_App_API.dll"]
+  ENTRYPOINT ["dotnet", "Food_Delivery_App.dll"]
