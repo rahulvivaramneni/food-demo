@@ -1,2 +1,0 @@
-# FooddeliveryBackend
-I digital
